@@ -43,7 +43,9 @@
 
        
         <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="/logins">Login</a>
+              
+        <a href="/logins" class="btn btn-info" role="button">Login</a>
+
           </li>
             <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/registers">Register</a>
